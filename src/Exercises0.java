@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Exercises0 {
     public static void main(String[] args) {
-        /* EJ 1) Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!" */
+        /* EJ 1) Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!". */
 
         // instancio la clase Scanner
         Scanner teclado = new Scanner(System.in);
@@ -44,7 +44,7 @@ public class Exercises0 {
         keyboard.close();
         System.out.printf("Edad: %d, Color: %s, Ciudad: %s\n", age, colour, city);
 
-        // EJ 4) Explora los diferentes System.XXX.println(); más allá de "out".
+        /* EJ 4) Explora los diferentes System.XXX.println(); más allá de "out". */
 
         System.out.println("Error grave LOL");
 
