@@ -47,6 +47,8 @@ public class Exercises1 {
          un valor antes de imprimirla. */
         double piAprox;
         piAprox = 3.14;
+
+        // uso %.2f para redondear a 2 decimales
         System.out.printf("Aprox value of Pi: %.2f\n", piAprox);
     }
 }
