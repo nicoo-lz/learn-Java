@@ -1,4 +1,4 @@
-public class Exercises2 {
+public class OperatorsExercises {
     public static void main(String[] args) {
         /* 1. Crea una variable con el resultado de cada operación aritmética. */
         int a = 1 + 2;

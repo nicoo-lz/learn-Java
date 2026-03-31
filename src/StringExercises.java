@@ -1,4 +1,4 @@
-public class Exercises3 {
+public class StringExercises {
     public static void main(String[] args) {
         /* 1. Concatena dos cadenas de texto. */
         String word1 = "Hello";

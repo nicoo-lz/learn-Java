@@ -1,7 +1,7 @@
 // importo la clase Scanner
 import java.util.Scanner;
 
-public class Exercises0 {
+public class IntroExercises {
     public static void main(String[] args) {
         /* EJ 1) Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!". */
 
