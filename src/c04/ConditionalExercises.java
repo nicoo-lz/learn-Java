@@ -1,3 +1,5 @@
+package c04;
+
 public class ConditionalExercises {
     public static void main(String[] args) {
         /* 1. Establece la edad de un usuario y muestra si puede

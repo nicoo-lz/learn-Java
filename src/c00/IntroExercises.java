@@ -1,3 +1,5 @@
+package c00;
+
 // importo la clase Scanner
 import java.util.Scanner;
 
@@ -50,6 +52,5 @@ public class IntroExercises {
 
         // muestra el mismo mensaje pero en rojo
         System.err.println("Error grave LOL");
-
     }
 }

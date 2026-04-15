@@ -1,3 +1,5 @@
+package c01;
+
 public class VariablesConstantsExercises {
     public static void main(String[] args) {
         /* 1. Declara una variable de tipo String y asígnale tu nombre. */
